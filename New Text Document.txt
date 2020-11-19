@@ -1,0 +1,27 @@
+ ERR Cannot calculate JVM memory configuration: There is insufficient memory remaining for heap. Memory available for allocation 256M is less than allocated 
+memory 617412K (-XX:ReservedCodeCacheSize=240M, -XX:MaxDirectMemorySize=10M, -XX:MaxMetaspaceSize=105412K, -Xss1M * 250 threads)
+
+
+
+
+India IND
+Malaysia MYS
+Thailand THA
+Singapore SGP
+Indonesia IDN
+Burma MMR
+Philippines PHL
+China CHN
+Japan JPN
+Taiwan TWN
+Australia AUS
+New Zealand NZL
+Germany DEU
+UK GBR
+Spain ESP
+France FRA
+Italy ITA
+Russia RUS
+USA USA
+Canada CAN
+Mexico MEX
